@@ -1,4 +1,4 @@
-[vista previa] (https://pedro-donoso.github.io/PracticaCupon/)
+<https://pedro-donoso.github.io/PracticaCupon/>
 
 # PracticaCupon
  unidad 1 (nota: 9)

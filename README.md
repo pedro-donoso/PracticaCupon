@@ -1,5 +1,5 @@
 <https://pedro-donoso.github.io/PracticaCupon/>
 
-# PracticaCupon
+# Proyecto Cupon
  unidad 1 (nota: 9)
 evaluacion: Muy buen trabajo, falto la estructura del formulario.

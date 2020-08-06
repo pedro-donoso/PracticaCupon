@@ -1,4 +1,4 @@
-<https://pedro-donoso.github.io/PracticaCupon/>
+<https://pedro-donoso.github.io/proyecto_cupon/>
 
 # Proyecto Cupon
  unidad 1 (nota: 9)

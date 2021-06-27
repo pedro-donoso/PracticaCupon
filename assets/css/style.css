@@ -1,5 +1,12 @@
-nav, #navbarSupport {
-  background: #28A745;
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+nav,
+#navbarSupport {
+  background: #28a745;
 }
 
 nav img {
@@ -7,37 +14,42 @@ nav img {
   min-width: 80px;
 }
 
-ul{
+ul {
   list-style: none;
+
 }
 
-ul li a{
+ul li a {
   color: white;
   font-size: 1.5em;
 }
 
-.card-body p:nth-child(1){ font-size: 20pt; font-weight: 400;}
-.card-body p:nth-child(2){ font-size: 16pt; }
-.card-body p:nth-child(3){ font-size: 13pt; }
+.card-body p:nth-child(1) {
+  font-size: 20pt;
+  font-weight: 400;
+}
+.card-body p:nth-child(2) {
+  font-size: 16pt;
+}
+.card-body p:nth-child(3) {
+  font-size: 13pt;
+}
 
-
-#precios{ text-align: right;}
-#precios span:nth-child(2){ font-size: 30pt !important; color : #28A745;}
+#precios {
+  text-align: right;
+}
+#precios span:nth-child(2) {
+  font-size: 30pt !important;
+  color: #28a745;
+}
 
 @media only screen and (max-width: 576px) {
-  .card{
+  .card {
     margin: auto;
   }
 }
 
-.form-group{
- width: 25%;
+.form-group {
+  width: 100%;
   min-width: 80px;
-
-}
-
-.imagen-abajo{
-	width: 25%;
-	min-width: 80px;
-	margin: auto;
 }
